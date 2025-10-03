@@ -1,4 +1,4 @@
 # RCOS_workshop.github.io
 Demo from RCOS workshop
 
-Visit the website <a>https://JRMS252.github.io/RCOS_workshop.github.io/</a> for navigation.
+Visit the website [<a>https://JRMS252.github.io/RCOS_workshop.github.io/</a>] for navigation.
